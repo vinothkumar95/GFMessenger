@@ -1,0 +1,12 @@
+TwilioCredentials:
+  twilio_account_sid: *
+  twilio_auth_token: *
+phone_number:
+  my_number: '*'
+  girl_friend_number: '*'
+  mom_number: '*'
+  dad_number: '*'
+birthdays:
+  first_contact:
+    birthday: '*'
+    number: '*'
